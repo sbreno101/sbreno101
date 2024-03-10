@@ -12,9 +12,6 @@
 
 ### Estatísticas do GitHub:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Breno+da+Silva+Rodrigues;I+am+from+João+Pessoa,+PB;I+study+analysis+and+systems+development:%29)](https://git.io/typing-svg)
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sbreno101&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Breno da Silva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbreno101&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -35,6 +32,10 @@
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br>
+
+### Meus Repositórios
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sbreno101&repo=bot-music-discord&show_owner=true&bg_color=000000&text_color=ffffff)](https://github.com/sbreno101/bot-music-discord)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sbreno101&repo=meu-site-html&show_owner=true&bg_color=000000&text_color=ffffff)](https://github.com/sbreno101/meu-site-html)
 
 ### Sobre mim:
 
