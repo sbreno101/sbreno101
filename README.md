@@ -33,8 +33,8 @@
 
 ### Meus Repositórios
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sbreno101&repo=bot-discord&show_owner=true&bg_color=000000&text_color=ffffff)](https://github.com/sbreno101/bot-discord.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sbreno101&repo=meu-site-html&show_owner=true&bg_color=000000&text_color=ffffff)](https://github.com/sbreno101/meu-site-html.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sbreno101&repo=bot-discord&show_owner=true&bg_color=000000&text_color=ffffff&title_color=00FFFF)](https://github.com/sbreno101/bot-discord.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sbreno101&repo=meu-site-html&show_owner=true&bg_color=000000&text_color=ffffff&title_color=00FFFF)](https://github.com/sbreno101/meu-site-html.git)
 
 ### Sobre mim:
 
