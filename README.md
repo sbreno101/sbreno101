@@ -1,18 +1,19 @@
-# 👋 Olá, eu sou Breno da Silva
+# Breno da Silva 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente estou focado em evoluir como **desenvolvedor Full Stack**, construindo projetos práticos e bem estruturados.
+Estudante de **Análise e Desenvolvimento de Sistemas**, focado em desenvolvimento de software e evolução constante como **desenvolvedor Full Stack**.
 
----
-
-## 🔗 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-da-silva-2834a02b8)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sbreno101@gmail.com)
+Gosto de aprender na prática, criando projetos simples, organizados e funcionais.
 
 ---
 
-## 🛠️ Tecnologias
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/breno-da-silva-2834a02b8  
+- Email: sbreno101@gmail.com  
+
+---
+
+## 🧠 Tecnologias que utilizo
 
 **Linguagens & Web**
 - Python  
@@ -23,41 +24,38 @@ Atualmente estou focado em evoluir como **desenvolvedor Full Stack**, construind
 **Banco de Dados**
 - MySQL  
 - PostgreSQL  
-- Oracle  
 - SQLite  
+- Oracle  
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Repositórios em destaque
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sbreno101&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbreno101&layout=compact&hide_border=true&theme=transparent" />
-</div>
+🔹 **Bot para Discord**  
+Projeto de automação e funcionalidades para servidores Discord  
+👉 https://github.com/sbreno101/bot-discord  
+
+🔹 **Site em HTML e CSS**  
+Projeto focado em estrutura, layout e fundamentos da web  
+👉 https://github.com/sbreno101/meu-site-html  
 
 ---
 
-## 📂 Projetos em Destaque
+## 📊 GitHub
 
-- 🤖 **Bot Discord**  
-  Automação e funcionalidades para servidores Discord  
-  👉 https://github.com/sbreno101/bot-discord
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbreno101&show_icons=true&theme=transparent)
 
-- 🌐 **Site em HTML/CSS**  
-  Projeto focado em estrutura, layout e boas práticas web  
-  👉 https://github.com/sbreno101/meu-site-html
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbreno101&layout=compact&theme=transparent)
 
 ---
 
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de ADS  
-- 💻 Interesse em desenvolvimento **Full Stack**  
-- 📚 Sempre buscando aprender e melhorar  
-- 🧠 Valorizo código limpo, organização e lógica bem feita  
+- 💻 Interesse em desenvolvimento Full Stack  
+- 📚 Em constante aprendizado  
+- 🧩 Valorizo lógica, organização e clareza no código  
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sbreno101/count.svg" />
-</div>
+![Profile Views](https://profile-counter.glitch.me/sbreno101/count.svg)
