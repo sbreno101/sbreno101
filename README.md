@@ -1,46 +1,63 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+# 👋 Olá, eu sou Breno da Silva
 
-## Bem-vindo ao meu mundo! Eu me chamo Breno da Silva 🖖.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software.  
+Atualmente estou focado em evoluir como **desenvolvedor Full Stack**, construindo projetos práticos e bem estruturados.
 
-### Minhas formas de contato:
+---
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/breno-da-silva-2834a02b8)
-[![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:sbreno101@gmail.com)
+## 🔗 Contato
 
-### Estatísticas do GitHub:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-da-silva-2834a02b8)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sbreno101@gmail.com)
+
+---
+
+## 🛠️ Tecnologias
+
+**Linguagens & Web**
+- Python  
+- JavaScript  
+- HTML5  
+- CSS3  
+
+**Banco de Dados**
+- MySQL  
+- PostgreSQL  
+- Oracle  
+- SQLite  
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sbreno101&sbreno101_private=true&show_icons=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=FFFFFF&bg_color=000000" alt="status do github do kekkai" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbreno101&sbreno101_private=true&layout=compact&hide_border=true&title_color=00ffff&text_color=00ffff&bg_color=000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sbreno101&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbreno101&layout=compact&hide_border=true&theme=transparent" />
 </div>
 
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sbreno101&sbreno101_private=true&bg_color=000000&color=ffffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📂 Projetos em Destaque
 
-### Tecnologias em foco:
+- 🤖 **Bot Discord**  
+  Automação e funcionalidades para servidores Discord  
+  👉 https://github.com/sbreno101/bot-discord
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-    <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div><br>
+- 🌐 **Site em HTML/CSS**  
+  Projeto focado em estrutura, layout e boas práticas web  
+  👉 https://github.com/sbreno101/meu-site-html
 
-### Meus Repositórios
+---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sbreno101&repo=bot-discord&show_owner=true&bg_color=000000&text_color=ffffff&title_color=00FFFF)](https://github.com/sbreno101/bot-discord.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sbreno101&repo=meu-site-html&show_owner=true&bg_color=000000&text_color=ffffff&title_color=00FFFF)](https://github.com/sbreno101/meu-site-html.git)
+## 🚀 Sobre mim
 
-### Sobre mim:
+- 🎓 Estudante de ADS  
+- 💻 Interesse em desenvolvimento **Full Stack**  
+- 📚 Sempre buscando aprender e melhorar  
+- 🧠 Valorizo código limpo, organização e lógica bem feita  
 
-Estudante dedicado à programação, focado em criar projetos inovadores e com o sonho de se tornar um desenvolvedor full stack!
+---
+
 <div align="center">
-<br><p align="centre"><b>Contador de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sbreno101}/count.svg" /></p> 
-<br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  <img src="https://profile-counter.glitch.me/sbreno101/count.svg" />
+</div>
