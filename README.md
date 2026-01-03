@@ -19,6 +19,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento w
 - PostgreSQL
 - SQLite
 - Oracle
+- PHP
 
 ---
 
