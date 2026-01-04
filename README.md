@@ -1,1 +1,1 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=sbreno101)
+![GitHub Streak](https://streak-stats.demolab.com?user=sbreno101&theme=default)
