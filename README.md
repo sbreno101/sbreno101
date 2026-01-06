@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
 </div>
 
-<h1 align="center">Olá, seja bem-vindo ao meu repositório!</h1>
+<h1 align="center">Olá, seja bem-vindo ao meu repositório.!</h1>
 
 <p align="center">
   Me chamo Breno, Desenvolvedor Web focado na criação de aplicações modernas,
