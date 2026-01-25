@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="left">📫 Contato</h3>
+<h3 align="left">📫 Contato:</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/breno-da-silva-2834a02b8/" target="_blank">
@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="left">🚀 Tecnologias</h3>
+<h3 align="left">🚀 Tecnologias:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
@@ -64,7 +64,7 @@
 
 ---
 
-<h3 align="left">📚 Conhecimentos Fundamentais</h3>
+<h3 align="left">📚 Conhecimentos Fundamentais:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
